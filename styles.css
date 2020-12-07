@@ -1,0 +1,29 @@
+body {
+  align-items: center;
+  margin-top: 10%;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
+
+select {
+  border: 1px;
+  height: 50px;
+  width: 100px;
+  text-align-last: center;
+  margin-right: 10px;
+  font-size: 15px;
+}
+
+input {
+  border: 0;
+  height: 45px;
+  width: 140px;
+  text-align: center;
+  margin-right: 20px;
+  font-size: 20px;
+}
